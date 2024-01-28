@@ -25,7 +25,7 @@
 			<li>Search room & object directories for object and room names instead of requiring directories</li>
 			<li>Assure the ogg decoder is fixed as listed in its repo</li>
 			<li>Impliment math functions used from cglm in assembly</li>
-			<li>Create a gui for project management</li>
+			<li>Create a gui for project management (dif repo)</li>
 		</ul>
 	</body>
 </html>
