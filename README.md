@@ -15,6 +15,7 @@
 		<li>libpng</li>
 		<li>libogg</li>
 		<li>libvorbis</li>
+		<l1>libsdl2</l1>
 	</ul>
 	<body>
 		<h2>Objectives:</h2>
